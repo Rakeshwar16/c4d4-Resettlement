@@ -260,9 +260,8 @@
 
   }
 
-  .left-follow {
-    display: flex;
-
+  .leftfollow {
+    margin-top: -38px;
   }
 
   .followlogo {
@@ -284,8 +283,8 @@
   .follow-us-icon {
     display: flex;
     justify-content: space-around;
-    margin-top: 50px;
-    gap: 30px;
+    margin-top: 30px;
+    gap: 15px;
   }
 
   .sm-icon {
