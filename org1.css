@@ -1028,6 +1028,7 @@ img{
     .organisation-fulllogo .organisation-logo  img {
       margin-left: 12%;
       width: 300px;
+      width: 120px;
     }
 
     .organisation-fulllogo .organisation-logo h3 {
@@ -1096,6 +1097,7 @@ img{
     .organisation-fulllogo .organisation-logo h3 {
       font-size: 16px;
       margin-left: 33%;
+      width: 120px;
     }
 
     .organisation-logo:hover {

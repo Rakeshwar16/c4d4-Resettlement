@@ -518,15 +518,15 @@ nav .content .links{
 
   @keyframes animate {
     0% {
-      content: 'International conference on communication for development:Inventions for Empower Women';   
+      content: 'International conference on communication for development:Inventions for empower women';   
     }
 
     50% {
-      content: '3-Day workshop on communication for Development: Intervention in Resettlement to improve livehood outcomes for women';   
+      content: '3-Day workshop on communication for development: Intervention in resettlement to improve livehood outcomes for women';   
     }
 
     100% {
-      content: 'International conference on communication for development:Inventions for Empower Women';   
+      content: 'International conference on communication for development:Inventions for empower women';   
     }
 
   }
@@ -1099,6 +1099,7 @@ nav .content .links{
     .organisation-fulllogo .organisation-logo h3 {
        font-size: 16px;
        margin-left: 32%;
+       width: 120px;
     }
 
     .organisation-logo:hover {
@@ -1162,6 +1163,7 @@ nav .content .links{
     .organisation-fulllogo .organisation-logo h3 {
       font-size: 16px;
       margin-left: 33%;
+      width: 120px;
     }
 
     .organisation-logo:hover {

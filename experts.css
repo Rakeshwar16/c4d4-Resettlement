@@ -819,6 +819,7 @@ nav .content .links{
     .organisation-fulllogo .organisation-logo h3 {
        font-size: 16px;
        margin-left: 32%;
+       width: 120px;
     }
 
     .organisation-logo:hover {
@@ -882,6 +883,7 @@ nav .content .links{
     .organisation-fulllogo .organisation-logo h3 {
       font-size: 16px;
       margin-left: 33%;
+      width: 120px;
     }
 
     .organisation-logo:hover {
